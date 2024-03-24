@@ -36,12 +36,12 @@
         <description>This has not been described in the prototype.</description>
       </define-field>
 
-      <define-field name="published" as-type="dateTime-with-timezone">
+      <define-field name="published" as-type="date-time-with-timezone">
         <formal-name>Publication Timestamp</formal-name>
         <description>This has not been described in the prototype.</description>
       </define-field>
 
-      <define-field name="last-modified" as-type="dateTime-with-timezone">
+      <define-field name="last-modified" as-type="date-time-with-timezone">
         <formal-name>Last Modified Timestamp</formal-name>
         <description>This has not been described in the prototype.</description>
       </define-field>
