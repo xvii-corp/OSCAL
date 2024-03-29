@@ -34,7 +34,7 @@
     <root-name>shared-responsibility</root-name>
     <define-flag name="uuid" as-type="uuid" required="yes">
       <formal-name>Shared Responsibility Universally Unique Identifier</formal-name>
-      <description>Provides a globally unique means to identify a given component definition
+      <description>Provides a globally unique means to identify a given Shared Responsibility 
         instance.</description>
     </define-flag>
     <model>
